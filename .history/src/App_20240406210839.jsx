@@ -2,7 +2,6 @@
 import React from 'react';
 import NavBar from './Components/NavBar';
 import HomePage from './Components/HomePage';
-import Servicers from './Components/Servicers'
 
 function App() {
   return (
